@@ -1,5 +1,7 @@
 # Bank Loan Analysis Dashboard
 
+![Bank Loan Analysis Dashboard](Dashboard.png)
+
 This project provides an in-depth analysis of a bank’s loan system, visualized using Tableau and powered by MySQL as the database source. The dashboard is designed to offer quick insights into the overall performance of loan applications and their funding status.
 
 Project Overview
